@@ -7,4 +7,4 @@ HELP.md
 *.iml
 *.ipr
 
-.patch
+*.patch
