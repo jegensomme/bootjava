@@ -6,3 +6,5 @@ HELP.md
 *.iws
 *.iml
 *.ipr
+
+.patch
